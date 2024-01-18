@@ -80,7 +80,7 @@ body {
     } 
 
     .title-para {
-        margin: auto;
+        margin: 0 auto 130px auto;
         font-size: 13px;
     }
 
@@ -130,7 +130,7 @@ body {
 
     .title-para {
         padding-left: 20px;
-        margin: auto;
+        margin: 0 auto 120px auto;
         font-size: 12px;
     }
 
