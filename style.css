@@ -63,8 +63,7 @@ body {
     }
 
     .main-container {
-        font-size: 0.8em;
-        height: 98%;
+        font-size: 0.8em;;
     }
 
     .main-container .h1-one {
@@ -81,7 +80,7 @@ body {
     } 
 
     .title-para {
-        margin: 0 auto 50px auto;
+        margin: 0 auto 130px auto;
         font-size: 13px;
     }
 
@@ -94,9 +93,13 @@ body {
         min-width:75vw;
     }
 
+    .lightblue {
+        margin-top: 500px;
+    }
+
     .blue {
         border-top: 3px solid rgb(81, 81, 236);
-        margin-bottom: 100px;
+        margin-bottom: 150px;
     }
 
 
@@ -104,7 +107,7 @@ body {
 
 }
 
-@media (max-width:400px){
+@media (min-width:400px){
     
     .main-container {
         font-size: 0.8em;
@@ -144,8 +147,6 @@ body {
         border-top: 3px solid rgb(81, 81, 236);
         margin-bottom: 150px;
     }
-
-
 
 
 }
