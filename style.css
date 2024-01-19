@@ -123,6 +123,7 @@ body {
         color: rgba(163, 163, 163, 0.913);
         font-weight: 500;
         margin: 20px 10px 0px 20px;
+        overflow: hidden;
     }
     
     .main-container .h1-two {
