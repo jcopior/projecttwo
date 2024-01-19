@@ -58,7 +58,7 @@ body {
     padding:25px 50px;
 }
 
-@media (max-width:576px){
+@media (max-width:450px){
 
     .main-container {
         font-size: 0.8em;
@@ -112,7 +112,7 @@ body {
         }
 }
 
-@media (max-width:400px){
+@media (max-width:360px){
 
     .main-container .h1-one {
         color: rgba(163, 163, 163, 0.913);
