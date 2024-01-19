@@ -58,7 +58,7 @@ body {
     padding:25px 50px;
 }
 
-@media (max-width:576px){
+@media (max-width:500px){
 
     .main-container {
         font-size: 0.8em;
