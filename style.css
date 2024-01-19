@@ -87,6 +87,7 @@ body {
 
     .data-container {
         flex-direction: column;
+        overflow: hidden
     }
 
     .box {
