@@ -91,6 +91,7 @@ body {
 
     .box {
         min-width:75vw;
+        height: 100px;
     }
 
     .box:hover {
@@ -103,6 +104,12 @@ body {
     }
 
 
+}
+
+@media (max-width:590px) {
+        .title-para {
+            font-size: 14px;
+        }
 }
 
 @media (max-width:400px){
