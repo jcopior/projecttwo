@@ -58,7 +58,7 @@ body {
     padding:25px 50px;
 }
 
-@media (max-width:450px){
+@media (max-width:576px){
 
     .main-container {
         font-size: 0.8em;
@@ -71,7 +71,7 @@ body {
         color: rgba(163, 163, 163, 0.913);
         font-weight: 400;
         font-size: 20px;
-        margin-top: 50px;
+        margin-top: 20px;
     }
     
     .main-container .h1-two {
@@ -106,13 +106,17 @@ body {
 
 }
 
-@media (max-width:590px) {
+@media (max-width:583px) {
         .title-para {
             font-size: 14px;
         }
+
+        .h1-one {
+            margin-top: 50px;
+        }
 }
 
-@media (max-width:360px){
+@media (max-width:400px){
 
     .main-container .h1-one {
         color: rgba(163, 163, 163, 0.913);
