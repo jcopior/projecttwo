@@ -58,21 +58,20 @@ body {
     padding:25px 50px;
 }
 
-@media (max-width:500px){
+@media (max-width:576px){
 
     .main-container {
         font-size: 0.8em;
         height: auto;
         display: flex;
         flex-direction: column;
-        margin-top: 20px;
     }
 
     .main-container .h1-one {
         color: rgba(163, 163, 163, 0.913);
         font-weight: 400;
         font-size: 20px;
-        margin-top: 20px;
+        margin-top: 50px;
     }
     
     .main-container .h1-two {
