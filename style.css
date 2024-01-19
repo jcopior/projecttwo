@@ -36,13 +36,12 @@ body {
 }
 
 .data-container {
-    margin-top: -10px;
     width: 90vw;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px;
-    overflow: hidden;
+    
 }
 
 .box {
@@ -88,7 +87,6 @@ body {
 
     .data-container {
         flex-direction: column;
-        overflow: hidden;
     }
 
     .box {
@@ -109,23 +107,12 @@ body {
 
 }
 
-@media (max-width:583px) {
-        .title-para {
-            font-size: 14px;
-        }
-
-        .h1-one {
-            margin-top: 50px;
-        }
-}
-
 @media (max-width:400px){
 
     .main-container .h1-one {
         color: rgba(163, 163, 163, 0.913);
         font-weight: 500;
         margin: 20px 10px 0px 20px;
-        overflow: hidden;
     }
     
     .main-container .h1-two {
@@ -145,7 +132,7 @@ body {
     }
 
     .box {
-        min-width:80vw;
+        min-width:75vw;
     }
 
     .blue {
