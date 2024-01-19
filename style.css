@@ -58,13 +58,14 @@ body {
     padding:25px 50px;
 }
 
-@media (max-width:700px){
+@media (max-width:600px){
 
     .main-container {
         font-size: 0.8em;
         height: auto;
         display: flex;
         flex-direction: column;
+        margin-top: 20px;
     }
 
     .main-container .h1-one {
